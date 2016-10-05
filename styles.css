@@ -1,0 +1,41 @@
+html {background-color: aquamarine; font-family: 'Futura', serif;}
+body {background-color: lavender;}
+header {background-color: lightsteelblue;text-align: center; padding: 25px;}
+nav{background-color: lavenderblush;text-align: center; padding: 10px;}
+
+div.img {
+    margin: 10px;
+    float: left;
+    width: 180px;
+}
+
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: azure;
+}
+
+div.hithere {
+    padding: 25px;
+    text-align: center
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+
+aside {background-color: lightcyan; float: left; width: 200px; text-align: center; height: 500px; padding: 20px;}
+
+article{background-color:skyblue; height: 400px;padding: 25px;padding: 10px;}
+footer{background-color: plum; padding: 15px; text-align: justify}
